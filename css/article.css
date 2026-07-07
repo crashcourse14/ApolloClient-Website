@@ -27,7 +27,7 @@ nav{
 
 .logo{
     font-weight:800;
-    color:#e53935;
+    color: #999;
 }
 
 .back-btn{
@@ -51,8 +51,8 @@ nav{
 .tag{
     display:inline-block;
 
-    background:rgba(229,57,53,.15);
-    color:#e53935;
+    background:rgba(0,57,53,.15);
+    color: #999;
 
     padding:6px 12px;
     border-radius:999px;
